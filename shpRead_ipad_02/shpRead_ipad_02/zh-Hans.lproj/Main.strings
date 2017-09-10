@@ -1,0 +1,18 @@
+
+/* Class = "IBUIButton"; normalTitle = "Search"; ObjectID = "DOa-tx-IDH"; */
+"DOa-tx-IDH.normalTitle" = "Search";
+
+/* Class = "IBUIButton"; normalTitle = "Reset"; ObjectID = "KSf-Sg-Tg1"; */
+"KSf-Sg-Tg1.normalTitle" = "Reset";
+
+/* Class = "IBUILabel"; text = "Layers : 0"; ObjectID = "QTW-jh-zf2"; */
+"QTW-jh-zf2.text" = "Layers : 0";
+
+/* Class = "IBUIButton"; normalTitle = "ChooseProj    "; ObjectID = "Ych-Rz-V4P"; */
+"Ych-Rz-V4P.normalTitle" = "ChooseProj    ";
+
+/* Class = "IBUIButton"; normalTitle = "ChooseCenter"; ObjectID = "j60-kc-X1P"; */
+"j60-kc-X1P.normalTitle" = "ChooseCenter";
+
+/* Class = "IBUIButton"; normalTitle = "Open"; ObjectID = "zLH-EA-Z25"; */
+"zLH-EA-Z25.normalTitle" = "Open";
